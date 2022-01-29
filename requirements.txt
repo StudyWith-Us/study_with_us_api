@@ -1,0 +1,5 @@
+django==3.2
+pymysql
+djangorestframework
+django-debug-toolbar
+python-dotenv
